@@ -1,0 +1,23 @@
+# Baymax Care — robots.txt
+# Public pages are indexable; private health dashboards are not.
+
+User-agent: *
+Allow: /
+Allow: /features
+Allow: /how-it-works
+Allow: /for-families
+Allow: /safety
+Allow: /privacy
+Allow: /terms
+Allow: /contact
+Allow: /login
+Allow: /register
+Allow: /forgot-password
+Allow: /reset-password
+Allow: /verify-email
+Allow: /emergency
+Disallow: /app/
+Disallow: /api/
+Disallow: /caregiver-invite/
+Disallow: /reset-password/
+Sitemap: https://baymaxcare.app/sitemap.xml

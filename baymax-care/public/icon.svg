@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Baymax Care mark">
+  <defs>
+    <style>
+      .mark { fill: #087F83; }
+      .mark-white { fill: #FFFFFF; }
+    </style>
+  </defs>
+  <rect width="32" height="32" rx="8" class="mark" />
+  <path d="M11.25 9.8c-2.55 1.75-2.55 5.6 0 7.35M20.75 9.8c2.55 1.75-2.55 5.6 0 7.35" fill="none" stroke="#FFFFFF" strokeWidth="1.8" strokeLinecap="round" />
+  <path d="M16 21.7v-5.15m-2.55 2.58h5.1" fill="none" stroke="#8FE3DE" strokeWidth="1.8" strokeLinecap="round" />
+  <circle cx="16" cy="16" r="6.6" fill="none" stroke="#FFFFFF" strokeOpacity="0.36" />
+</svg>
